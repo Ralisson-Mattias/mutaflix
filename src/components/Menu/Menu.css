@@ -41,7 +41,7 @@
     }
   }
   
-  .ButtonLink {
+   .ButtonLink {
     color: var(--white);
     border: 1px solid var(--white);
     box-sizing: border-box;
@@ -72,4 +72,46 @@
       border: 0;
       text-align: center;
     }
+  } 
+
+
+
+  /* .efeito {
+    border: none;
+    color: #ffffff;
+    padding: 20px;
+    margin: 10px;
+    font-size: 24px;
+    line-height: 24px;
+    border-radius: 10px;
+    position: relative;
+    box-sizing: border-box;
+    cursor: pointer;
+    transition: all 400ms ease;
+    text-decoration: none;
+
   }
+  .efeito-6 {
+    background: #575fcf;
+    transform-style: preserve-3d;
+  }
+
+  .efeito-6:after {
+    
+    top: -100%;
+    left: 0px;
+    width: 100%;
+    padding: 20px;
+    position: absolute;
+    background: #00d8d6;
+    border-radius: 10px;
+    box-sizing: border-box;
+    content: 'Novo video';
+    color: #1e272e;
+    transform-origin: left bottom;
+    transform: rotateX(90deg) ;
+  }
+  .efeito-6:hover {
+    transform-origin: center bottom;
+    transform: rotateX(-90deg) translateY(100%) ;
+  } */

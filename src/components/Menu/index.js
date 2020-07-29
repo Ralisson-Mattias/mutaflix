@@ -10,7 +10,6 @@ function Menu() {
             <Link to="/">
                 <img className="Logo" src={Logo} alt="Mutaflix logo" />
             </Link>
-
             <Button as={Link} className="ButtonLink" to="/cadastro/video">
                 Novo video
             </Button>
